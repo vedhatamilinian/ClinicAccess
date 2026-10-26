@@ -1,0 +1,230 @@
+[
+  {
+    "stop_id": "510037",
+    "name": "AIRPORT STATION",
+    "latitude": 33.640806,
+    "longitude": -84.446214
+  },
+  {
+    "stop_id": "510001",
+    "name": "ARTS CENTER STATION",
+    "latitude": 33.78918,
+    "longitude": -84.38728
+  },
+  {
+    "stop_id": "510002",
+    "name": "ASHBY STATION",
+    "latitude": 33.75645,
+    "longitude": -84.41728
+  },
+  {
+    "stop_id": "510003",
+    "name": "AVONDALE STATION",
+    "latitude": 33.77535,
+    "longitude": -84.28191
+  },
+  {
+    "stop_id": "510004",
+    "name": "BANKHEAD STATION",
+    "latitude": 33.77231,
+    "longitude": -84.4289
+  },
+  {
+    "stop_id": "510005",
+    "name": "BROOKHAVEN-OGLETHORPE STATION",
+    "latitude": 33.85999,
+    "longitude": -84.3394
+  },
+  {
+    "stop_id": "510036",
+    "name": "BUCKHEAD STATION",
+    "latitude": 33.84773,
+    "longitude": -84.36766
+  },
+  {
+    "stop_id": "510006",
+    "name": "CHAMBLEE STATION",
+    "latitude": 33.88786,
+    "longitude": -84.30566
+  },
+  {
+    "stop_id": "510007",
+    "name": "CIVIC CENTER STATION",
+    "latitude": 33.76634,
+    "longitude": -84.38749
+  },
+  {
+    "stop_id": "510008",
+    "name": "COLLEGE PARK STATION",
+    "latitude": 33.65159,
+    "longitude": -84.44878
+  },
+  {
+    "stop_id": "510009",
+    "name": "DECATUR STATION",
+    "latitude": 33.77468,
+    "longitude": -84.29553
+  },
+  {
+    "stop_id": "510010",
+    "name": "DORAVILLE STATION",
+    "latitude": 33.90296,
+    "longitude": -84.28026
+  },
+  {
+    "stop_id": "510011",
+    "name": "DUNWOODY STATION",
+    "latitude": 33.92124,
+    "longitude": -84.34427
+  },
+  {
+    "stop_id": "510012",
+    "name": "EAST LAKE STATION",
+    "latitude": 33.76518,
+    "longitude": -84.31315
+  },
+  {
+    "stop_id": "510013",
+    "name": "EAST POINT STATION",
+    "latitude": 33.67753,
+    "longitude": -84.4405
+  },
+  {
+    "stop_id": "510014",
+    "name": "EDGEWOOD-CANDLER PARK STATION",
+    "latitude": 33.76193,
+    "longitude": -84.33962
+  },
+  {
+    "stop_id": "510015",
+    "name": "FIVE POINTS STATION",
+    "latitude": 33.75387,
+    "longitude": -84.39157
+  },
+  {
+    "stop_id": "510038",
+    "name": "GARNETT STATION",
+    "latitude": 33.748544,
+    "longitude": -84.395888
+  },
+  {
+    "stop_id": "510016",
+    "name": "GEORGIA STATE STATION",
+    "latitude": 33.75007,
+    "longitude": -84.38587
+  },
+  {
+    "stop_id": "510017",
+    "name": "HAMILTON E HOLMES STATION",
+    "latitude": 33.75448,
+    "longitude": -84.47003
+  },
+  {
+    "stop_id": "510018",
+    "name": "INDIAN CREEK STATION",
+    "latitude": 33.76982,
+    "longitude": -84.22953
+  },
+  {
+    "stop_id": "510019",
+    "name": "INMAN PARK-REYNOLDSTOWN STATION",
+    "latitude": 33.75753,
+    "longitude": -84.35265
+  },
+  {
+    "stop_id": "510020",
+    "name": "KENSINGTON STATION",
+    "latitude": 33.77262,
+    "longitude": -84.25192
+  },
+  {
+    "stop_id": "510021",
+    "name": "KING MEMORIAL STATION",
+    "latitude": 33.7499,
+    "longitude": -84.3758
+  },
+  {
+    "stop_id": "510022",
+    "name": "LAKEWOOD-FT MCPHERSON STATION",
+    "latitude": 33.70042,
+    "longitude": -84.42883
+  },
+  {
+    "stop_id": "510023",
+    "name": "LENOX STATION",
+    "latitude": 33.8454,
+    "longitude": -84.35811
+  },
+  {
+    "stop_id": "510024",
+    "name": "LINDBERGH CENTER STATION",
+    "latitude": 33.82291,
+    "longitude": -84.36947
+  },
+  {
+    "stop_id": "510025",
+    "name": "MEDICAL CENTER STATION",
+    "latitude": 33.91072,
+    "longitude": -84.35145
+  },
+  {
+    "stop_id": "510026",
+    "name": "MIDTOWN STATION",
+    "latitude": 33.78107,
+    "longitude": -84.38632
+  },
+  {
+    "stop_id": "510027",
+    "name": "NORTH AVE STATION",
+    "latitude": 33.77179,
+    "longitude": -84.38709
+  },
+  {
+    "stop_id": "510028",
+    "name": "NORTH SPRINGS STATION",
+    "latitude": 33.94498,
+    "longitude": -84.3572
+  },
+  {
+    "stop_id": "510029",
+    "name": "OAKLAND CITY STATION",
+    "latitude": 33.71716,
+    "longitude": -84.42507
+  },
+  {
+    "stop_id": "510040",
+    "name": "PEACHTREE CENTER STATION",
+    "latitude": 33.759684,
+    "longitude": -84.387598
+  },
+  {
+    "stop_id": "510030",
+    "name": "SANDY SPRINGS STATION",
+    "latitude": 33.93174,
+    "longitude": -84.35096
+  },
+  {
+    "stop_id": "510039",
+    "name": "SEC DISTRICT STATION",
+    "latitude": 33.75618,
+    "longitude": -84.39725
+  },
+  {
+    "stop_id": "510032",
+    "name": "VINE CITY STATION",
+    "latitude": 33.75657,
+    "longitude": -84.404
+  },
+  {
+    "stop_id": "510033",
+    "name": "WEST END STATION",
+    "latitude": 33.73612,
+    "longitude": -84.41364
+  },
+  {
+    "stop_id": "510034",
+    "name": "WEST LAKE STATION",
+    "latitude": 33.75327,
+    "longitude": -84.4453
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "source_url": "https://fultoncountyboh.com/locations/",
+  "source_verified_on": "2026-03-20",
+  "insurance_source_url": "https://fultoncountyboh.com/services/insurance-plans/",
+  "language_source_url": "https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/customer-service/translation",
+  "sites": [
+    {
+      "id": "boh-park-place",
+      "name": "10 Park Place Health Center",
+      "organization_name": "Fulton County Board of Health",
+      "address": "10 Park Place S.E., 5th floor",
+      "city": "Atlanta",
+      "state": "GA",
+      "postal_code": "30303",
+      "phone": "770-520-7500",
+      "hours_summary": "Mon–Fri: 8:00 a.m.–12:00 p.m. & 1:00 p.m.–4:30 p.m. Last walk-in appointment 3:00 p.m.",
+      "services": [
+        "Immunizations (Adults Only)",
+        "HIV/AIDS Treatment Services (Ryan White)",
+        "Tuberculosis (TB) Prevention, Treatment, and Skin Testing",
+        "STI Screenings and Treatment",
+        "Pre-Exposure Prophylaxis HIV (PrEP)"
+      ]
+    },
+    {
+      "id": "boh-adamsville",
+      "name": "Adamsville Regional Health Center",
+      "organization_name": "Fulton County Board of Health",
+      "address": "3700 MLK Jr. Drive S.W.",
+      "city": "Atlanta",
+      "state": "GA",
+      "postal_code": "30331",
+      "phone": "770-520-7323",
+      "hours_summary": "Mon–Fri: 8:00 a.m.–12:00 p.m. & 1:00 p.m.–4:30 p.m.",
+      "services": [
+        "Immunizations",
+        "WIC Services",
+        "Women's Health Services",
+        "Family Planning",
+        "STI Screenings and Treatment",
+        "Teen Health Services"
+      ]
+    },
+    {
+      "id": "boh-center-rehab",
+      "name": "Center for Health and Rehabilitation",
+      "organization_name": "Fulton County Board of Health",
+      "address": "265 Boulevard N.E.",
+      "city": "Atlanta",
+      "state": "GA",
+      "postal_code": "30312",
+      "phone": "770-520-7370",
+      "hours_summary": "Mon–Fri: 8:00 a.m.–4:30 p.m.",
+      "services": ["Chronic Disease Prevention", "WIC Services", "Adolescent Health and Youth Development"]
+    },
+    {
+      "id": "boh-college-park",
+      "name": "College Park Regional Health Center",
+      "organization_name": "Fulton County Board of Health",
+      "address": "1920 John Wesley Avenue",
+      "city": "College Park",
+      "state": "GA",
+      "postal_code": "30337",
+      "phone": "770-520-7201",
+      "hours_summary": "Mon–Fri: 8:00 a.m.–12:00 p.m. & 1:00 p.m.–4:30 p.m.; Thu evening 5:00–7:00 p.m. (excludes Vital Records)",
+      "services": [
+        "Immunizations",
+        "Travel Clinic",
+        "WIC Services",
+        "Women's Health",
+        "STI Screening and Treatment",
+        "Teen Health Services"
+      ]
+    },
+    {
+      "id": "boh-neighborhood-union",
+      "name": "Neighborhood Union Health Center",
+      "organization_name": "Fulton County Board of Health",
+      "address": "186 Sunset Avenue N.W.",
+      "city": "Atlanta",
+      "state": "GA",
+      "postal_code": "30314",
+      "phone": "770-520-7351",
+      "hours_summary": "Mon–Fri: 8:00 a.m.–12:00 p.m. & 1:00 p.m.–4:30 p.m.",
+      "services": [
+        "Immunizations",
+        "WIC Services",
+        "Women's Health Services",
+        "STI Screenings and Treatment",
+        "Teen Health Services"
+      ]
+    },
+    {
+      "id": "boh-north-point",
+      "name": "Health and Human Services – North",
+      "organization_name": "Fulton County Board of Health",
+      "address": "4700 North Point Parkway",
+      "city": "Alpharetta",
+      "state": "GA",
+      "postal_code": "30022",
+      "phone": "770-520-7500",
+      "hours_summary": "Mon–Fri: 8:00 a.m.–12:00 p.m. & 1:00 p.m.–4:30 p.m.",
+      "services": [
+        "Immunizations",
+        "Travel Clinic",
+        "Refugee Health Screening",
+        "WIC Services",
+        "Women's Health"
+      ]
+    },
+    {
+      "id": "boh-north-fulton",
+      "name": "North Fulton Services Center",
+      "organization_name": "Fulton County Board of Health",
+      "address": "7741 Roswell Road",
+      "city": "Sandy Springs",
+      "state": "GA",
+      "postal_code": "30350",
+      "phone": "770-520-7267",
+      "hours_summary": "Mon–Fri: 8:00 a.m.–4:30 p.m. (WIC Mon–Thu per official site)",
+      "services": ["WIC"]
+    },
+    {
+      "id": "boh-oak-hill",
+      "name": "Oak Hill Child, Adolescent & Family Center",
+      "organization_name": "Fulton County Board of Health",
+      "address": "2805 Metropolitan Pkwy",
+      "city": "Atlanta",
+      "state": "GA",
+      "postal_code": "30315",
+      "phone": "770-520-7276",
+      "hours_summary": "Mon–Fri: 8:00 a.m.–4:30 p.m.",
+      "services": [
+        "Children's Medical Services",
+        "WIC Services",
+        "Autism Screening Project (16-30 months)"
+      ]
+    }
+  ]
+}

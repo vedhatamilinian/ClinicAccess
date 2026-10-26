@@ -1,0 +1,4 @@
+BHCMISID,BPHC_SITE_NUM,HCP_ORG_NM,SITE_NM,SITE_ADDRESS,SITE_CITY,SITE_STATE_ABBR,SITE_ZIP_CD,SITE_PHONE_NUM,SITE_URL,X,Y,COUNTY_NM,HCC_STATUS_DESC,HCP_ORG_TYP
+BPHC000001,1,Example Fulton FQHC,Adamsville Site,3700 MLK Jr Dr SW,Atlanta,GA,30331,404-555-0100,https://www.example.org,-84.4501,33.7390,Fulton,Active,Federally Qualified Health Center (FQHC)
+BPHC000002,2,Example Fulton FQHC,College Park Site,1920 John Wesley Ave,College Park,GA,30337,404-555-0101,,-84.4412,33.6401,Fulton,Active,Federally Qualified Health Center (FQHC)
+BPHC000003,3,Example DeKalb FQHC,Decatur Site,250 E Ponce de Leon Ave,Decatur,GA,30030,404-555-0102,,-84.2960,33.7750,DeKalb,Active,Federally Qualified Health Center (FQHC)

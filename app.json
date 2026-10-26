@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "ClinicAccess",
+    "slug": "clinicaccess-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "clinicaccess",
+    "plugins": [
+      "expo-router",
+      "expo-status-bar",
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "ClinicAccess uses your location to estimate distance to clinics and recenter the map."
+        }
+      ]
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSAppTransportSecurity": {
+          "NSAllowsLocalNetworking": true
+        },
+        "NSLocationWhenInUseUsageDescription": "ClinicAccess uses your location to estimate distance to clinics and recenter the map."
+      }
+    },
+    "android": {
+      "predictiveBackGestureEnabled": false,
+      "usesCleartextTraffic": true
+    }
+  }
+}

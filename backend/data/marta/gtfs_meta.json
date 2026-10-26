@@ -1,0 +1,12 @@
+{
+  "source_url": "https://itsmarta.com/google_transit_feed/google_transit.zip",
+  "synced_at": "2026-10-22T17:55:26.109943+00:00",
+  "rail_station_count": 38,
+  "bus_stop_count": 6632,
+  "bus_bbox": {
+    "lat_min": 33.45,
+    "lat_max": 34.05,
+    "lon_min": -84.65,
+    "lon_max": -84.15
+  }
+}
